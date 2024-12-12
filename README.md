@@ -9,7 +9,7 @@ Attached in this repository are the required files "BigInt" and "Node1" used for
 Furthermore, the complete report is attached highlighting the working of our project using C++. 
 
 
-#Requirements
+# Requirements
 
 This project Requires the installation and setup of the Cryptopp Library available in C++, for Hashing purposes.
 <br>
